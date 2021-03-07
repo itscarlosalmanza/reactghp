@@ -1,0 +1,19 @@
+.me {
+  background-color: #87770e;
+  width: 100%;
+  padding-inline: 20%;
+}
+.imageBox {
+  padding: 5px;
+  width: 800px;
+  height: 500px;
+  resize: both;
+}
+.learn {
+  background-color: #87770e;
+  width: 100%;
+  padding-inline: 20%;
+  position: absolute;
+  top: 120px;
+  /* border-radius: 500px; */
+}

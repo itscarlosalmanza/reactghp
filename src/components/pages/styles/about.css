@@ -1,0 +1,23 @@
+.about {
+  background-color: #87770e;
+  width: 100%;
+  padding-inline: 20%;
+  margin-bottom: 100px;
+}
+
+.myWork {
+  color: black;
+  text-align: center;
+}
+
+.onTrack {
+  float: right;
+  padding-right: 50px;
+  margin-top: 200px;
+}
+
+.gameBuzz {
+  float: left;
+  padding-left: 50px;
+  margin-top: 200px;
+}
